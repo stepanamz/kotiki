@@ -141,10 +141,11 @@
     object-fit: contain;
     position: relative;
     z-index: 1;
+    
   }
 
   .header__square-pic{
-    background-image: url(../1/image/spiral.png);
+    background-image: url(./image/spiral.png);
     background-size: contain;
     background-repeat: no-repeat;
     width: 600px;
@@ -213,7 +214,7 @@
   }
 
   .info__treygol-1{
-    background-image: url(../1/image/triangle.png);
+    background-image: url(./image/triangle.png);
     background-size: contain;
     background-repeat: no-repeat;
     width: 350px;
@@ -226,7 +227,7 @@
   }
 
   .info__treygol-2{
-    background-image: url(../1/image/triangle.png);
+    background-image: url(./image/triangle.png);
     background-size: contain;
     background-repeat: no-repeat;
     width: 350px;
